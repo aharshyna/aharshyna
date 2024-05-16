@@ -1,5 +1,5 @@
 # Hey there 👋 
-I'm Anna Harshyna, a front-end developer based in Kyiv, Ukraine.
+I'm Anna, a front-end developer based in Kyiv, Ukraine.
 
 
 - I love creating beautiful and practical UIs 💖 
